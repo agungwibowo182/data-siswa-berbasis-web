@@ -1,8 +1,7 @@
 ![alt text](https://github.com/agungwibowo182/data-siswa-berbasis-web/blob/master/uploads/data_mahasiswa.png)
-
-###################
+<hr>
 What is CodeIgniter
-###################
+<hr>
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
